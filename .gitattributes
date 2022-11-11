@@ -1,0 +1,2 @@
+lineage-14.1-20190217-nightly-i9300-signed.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
