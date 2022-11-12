@@ -1,10 +1,14 @@
 # Phone Images
 
-Some old phone images that are hard to find online, but they are very old and do not receive updates!!
+Some good old phone images ~~that are hard to find online~~, but they are very old and do not receive updates!!
+
 
 ## i9300 - Lineage
 
+When I checked, the ROM is also on https://lineageosroms.com/i9300/ with the same hash (you probably want to check it), so can download from there instead.
+
 The zip is on git-lfs, get with`sudo apt install git-lfs` and then clone the repo.
+
 
 ### Verify signature
 
